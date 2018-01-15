@@ -1,0 +1,26 @@
+kaggle topic :
+https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
+weather data from :
+https://www.kaggle.com/huntermcgushion/rrv-weather-data
+
+dara2&F_train&hpg_reserve.zip is dara2, F_train and hpg_reserve those three csv file because its size is too big 
+weather/Weather its zip are like about
+
+merge2 I forget what is it use for . I think is nothing to use, but just in case 
+
+test.py is use to merge air & hpg and add same kind store information 
+final count booking number for each store ID with day and count avg for each store ID with day how avg day they book 
+output merge.csv
+
+test2.py is use to merge actually number of visiter and make its title more beautiful
+final sort the ID and day
+output data
+
+test3.py because about test+test2 have miss data so I made this to redo and made it better perfect 
+output data2 & F_train
+
+test4.py is use to make testset from data2 
+output F_test
+
+test5.py is use to make trainset & testset merge weather 
+output train or test
