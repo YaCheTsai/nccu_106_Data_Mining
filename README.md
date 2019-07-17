@@ -1,4 +1,4 @@
-# nccu_106_Datamining-
+# nccu_106_Data_Mining
 
 106753028.py is me first python code. <br>
 Titanic & amazon are used to pratice how to mine data. <br>
